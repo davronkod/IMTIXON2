@@ -1,0 +1,150 @@
+@font-face {
+    font-family: SegoeUI;
+    src: url(../fonts/SegoeUI-Light.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-family: SegoeUI;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+.yellow{
+    width: 700px;
+    margin-top: 300px;
+    margin-left: -400px;
+    margin-top: 500px;
+}
+.red{
+    width: 700px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 900px;
+}
+.bg{
+    position: absolute;
+    margin-top: -1130px;
+    margin-left: 900px;
+    width: 500px;
+    border-radius: 20px;
+}
+.bf{
+    position: absolute;
+    width: 700px;
+    height: 843px;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: -1130px;
+}
+.q1{
+    position: absolute;
+    margin-top: -800px;
+    margin-left: 1050px;
+    color: white;
+}
+.q2{
+    position: absolute;
+    margin-top: -720px;
+    margin-left: 1020px;
+    color: white;
+    font-size: 20px;
+}
+span{
+    margin-left: 15px;
+}
+.btn1{
+    position: absolute;
+    margin-top: -720px;
+    margin-left: 350px;
+    width: 200px;
+    height: 60px;
+    margin-top: -600px;
+    margin-left: 1050px;
+    border: none;
+    font-size: 17px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 1px solid white;
+    cursor: pointer;
+    color: white;
+}
+.q3{
+    margin-left: 200px;
+    margin-top: 100px;
+    color: aqua;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 40px;
+}
+.img1{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.img3{
+    margin-left: 10px;
+}
+.mb{
+    gap: 20px;
+}
+.img2{
+    margin-left: 10px;
+}
+.q4{
+    margin-top: 70px;
+    margin-left: 170px;
+    font-size: 20px;
+}
+.inp1{
+    margin-left: 170px;
+    outline: none;
+    border: none;
+    width: 300px;
+    margin-top: 20px;
+    height: 50px;
+
+}
+.q5{
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 38px;
+}
+input{
+    background-color: antiquewhite;
+}
+.q6{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: -330px;
+}
+.q7{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -330px;
+}
+.btn3{
+    width: 200px;
+    height: 60px;
+    border: none;
+    font-size: 17px;
+    border-radius: 50px;
+    background-color: aqua;
+    cursor: pointer;
+    color: white;
+    margin-top: 120px;
+    position: absolute;
+    transition: .5s;
+    margin-left: -220px;
+}
+.btn3:hover{
+    transition: .5s;
+    background-color: transparent;
+    color: aqua;
+    border: 1px solid aqua;
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="641" height="1080" viewBox="0 0 641 1080">
+  <defs>
+    <radialGradient id="radial-gradient" cx="-0.433" cy="1.095" r="2.085" gradientTransform="matrix(1, 0, 0, 0.594, 0, 0.445)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#10eec8"/>
+      <stop offset="1" stop-color="#269b93"/>
+    </radialGradient>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="641" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="641" height="1080" fill="url(#radial-gradient)"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M69.5,0,139,123H0Z" transform="translate(504.7 1031.301) rotate(-42)" fill="#fff" opacity="0.2"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M68.5,0,137,143H0Z" transform="matrix(0.799, 0.602, -0.602, 0.799, 160.823, 156.173)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="89" height="94" transform="translate(26.061 -36.744) rotate(45)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="98" height="103" transform="translate(389.82 518.293)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="41" height="122" transform="translate(124.066 728.715) rotate(-30)" fill="#fff" opacity="0.2"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="79.5" cy="79.5" r="79.5" transform="translate(439 77)" fill="#fff" opacity="0.2"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="109.5" cy="109.5" r="109.5" transform="translate(-56 921)" fill="#fff" opacity="0.2"/>
+  </g>
+</svg>
