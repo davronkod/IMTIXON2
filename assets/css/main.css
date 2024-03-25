@@ -16,26 +16,30 @@
     margin: 0 auto;
     padding: 0px 20px;
 }
-.yellow{
+
+.yellow {
     width: 700px;
     margin-top: 300px;
     margin-left: -400px;
     margin-top: 500px;
 }
-.red{
+
+.red {
     width: 700px;
     position: absolute;
     margin-top: -100px;
     margin-left: 900px;
 }
-.bg{
+
+.bg {
     position: absolute;
     margin-top: -1130px;
     margin-left: 200px;
     width: 500px;
     border-radius: 20px;
 }
-.bf{
+
+.bf {
     position: absolute;
     width: 700px;
     height: 843px;
@@ -43,23 +47,27 @@
     margin-left: 680px;
     margin-top: -1130px;
 }
-.q1{
+
+.q1 {
     position: absolute;
     margin-top: -800px;
     margin-left: 350px;
     color: white;
 }
-.q2{
+
+.q2 {
     position: absolute;
     margin-top: -720px;
     margin-left: 320px;
     color: white;
     font-size: 20px;
 }
-span{
+
+span {
     margin-left: 15px;
 }
-.btn1{
+
+.btn1 {
     position: absolute;
     margin-top: -720px;
     margin-left: 350px;
@@ -75,32 +83,39 @@ span{
     cursor: pointer;
     color: white;
 }
-.q3{
+
+.q3 {
     margin-left: 200px;
     margin-top: 100px;
     color: aqua;
     font-weight: 700;
     cursor: pointer;
 }
-.img1{
+
+.img1 {
     margin-top: 50px;
     margin-left: 200px;
 }
-.img3{
+
+.img3 {
     margin-left: 10px;
 }
-.mb{
+
+.mb {
     gap: 20px;
 }
-.img2{
+
+.img2 {
     margin-left: 10px;
 }
-.q4{
+
+.q4 {
     margin-top: 70px;
     margin-left: 170px;
     font-size: 20px;
 }
-.inp1{
+
+.inp1 {
     margin-left: 170px;
     outline: none;
     border: none;
@@ -109,24 +124,26 @@ span{
     height: 50px;
 
 }
-.q5{
+
+.q5 {
     position: absolute;
     margin-left: 140px;
     margin-top: 38px;
 }
-input{
-}
-.q6{
+
+.q6 {
     position: absolute;
     margin-top: 110px;
     margin-left: -330px;
 }
-.q7{
+
+.q7 {
     position: absolute;
     margin-top: 100px;
     margin-left: -330px;
 }
-.btn3{
+
+.btn3 {
     width: 200px;
     height: 60px;
     border: none;
@@ -140,7 +157,8 @@ input{
     transition: .5s;
     margin-left: -220px;
 }
-.btn3:hover{
+
+.btn3:hover {
     transition: .5s;
     background-color: transparent;
     color: aqua;
